@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\recipients.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\menu\\recipients.xml"
+    }
+]

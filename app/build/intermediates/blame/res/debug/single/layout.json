@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_item.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\layout\\message_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_image.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\layout\\activity_view_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_inbox.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\layout\\fragment_inbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recipients.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\layout\\activity_recipients.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_friends.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\layout\\fragment_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_friends.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\layout\\activity_edit_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    }
+]

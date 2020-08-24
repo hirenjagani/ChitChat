@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="camera_choices">
+        <item>Take Picture</item>
+        <item>Take Video</item>
+        <item>Choose Picture</item>
+        <item>Choose Video</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="message_list_item_vertical_margin">8dp</dimen>
+    <string name="app_name">ChitChat</string>
+    <string name="email_hint">Email</string>
+    <string name="empty_friends_label">Add friends to begin!</string>
+    <string name="empty_inbox_label">No new messages!</string>
+    <string name="empty_recipients_list_message">           Choose some friends first!</string>
+    <string name="error_external_storage">There was a problem accessing your device\'s external storage.</string>
+    <string name="error_file_size_too_large">The selected file is too large! Select a new file.</string>
+    <string name="error_opening_file">There was a problem with the selected file.</string>
+    <string name="error_selecting_file">There was an error with the file selected. Please select a different file.</string>
+    <string name="error_selecting_file_title">We\'re sorry!</string>
+    <string name="error_sending_message">There was an error sending your message. Please try again.</string>
+    <string name="error_title">We\'re sorry!</string>
+    <string name="general_error">Sorry, there was an error!</string>
+    <string name="login_button_label">Login</string>
+    <string name="login_error_message">Please make sure you enter a username and password!</string>
+    <string name="login_error_title">Oops!</string>
+    <string name="menu_camera_label">Camera</string>
+    <string name="menu_edit_friends_label">Edit Friends</string>
+    <string name="menu_logout_label">Logout</string>
+    <string name="menu_send_label">Send</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_button_label">Sign Up</string>
+    <string name="sign_up_text">Sign Up!</string>
+    <string name="signup_error_message">Please make sure you enter a username, password, and email address!</string>
+    <string name="signup_error_title">Oops!</string>
+    <string name="success_message">Message sent!</string>
+    <string name="title_activity_edit_friends">Edit Friends</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_recipients">Choose Recipients</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_view_image">Chitchat</string>
+    <string name="title_section1">Inbox</string>
+    <string name="title_section2">Friends</string>
+    <string name="username_hint">Username</string>
+    <string name="video_file_size_warning">The selected video must be less than 10 MB.</string>
+    <style name="ActionBar.Solid.Vaibhav" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/ab_solid_vaibhav</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_vaibhav</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_vaibhav</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Vaibhav</item>
+    </style>
+    <style name="ActionBar.Transparent.Vaibhav" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_vaibhav</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Vaibhav</item>
+    </style>
+    <style name="ActionBarTabStyle.Vaibhav" parent="@android:style/Widget.Holo.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_vaibhav</item>
+    </style>
+    <style name="ActionButton.CloseMode.Vaibhav" parent="@android:style/Widget.Holo.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_vaibhav</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_vaibhav</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Vaibhav</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Vaibhav</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Vaibhav</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Vaibhav</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Vaibhav</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_vaibhav</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_vaibhav</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Vaibhav</item>
+
+        <!-- Light.DarkActionBar specific -->
+        <item name="android:actionBarWidgetTheme">@style/Theme.Vaibhav.Widget</item>
+
+    </style>
+    <style name="DropDownListView.Vaibhav" parent="@android:style/Widget.Holo.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_vaibhav</item>
+    </style>
+    <style name="DropDownNav.Vaibhav" parent="@android:style/Widget.Holo.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_vaibhav</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_vaibhav</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_vaibhav</item>
+    </style>
+    <style name="PopupMenu.Vaibhav" parent="@android:style/Widget.Holo.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_vaibhav</item>
+    </style>
+    <style name="ProgressBar.Vaibhav" parent="@android:style/Widget.Holo.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_vaibhav</item>
+    </style>
+    <style name="Theme.Vaibhav.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Vaibhav</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Vaibhav</item>
+    </style>
+</resources>

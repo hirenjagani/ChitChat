@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ab_solid_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\ab_solid_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ab_bottom_solid_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\ab_bottom_solid_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ab_transparent_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\ab_transparent_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cab_background_top_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\cab_background_top_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\spinner_ab_disabled_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_disabled_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_cab_done_focused_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_focused_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\progress_secondary_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\progress_secondary_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\progress_primary_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\progress_primary_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\spinner_ab_focused_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_focused_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\list_pressed_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\list_pressed_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cab_background_bottom_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\cab_background_bottom_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ab_stacked_solid_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\ab_stacked_solid_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tab_selected_pressed_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_pressed_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\progress_bg_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\progress_bg_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\spinner_ab_pressed_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_pressed_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\spinner_ab_default_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_default_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_cab_done_default_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_default_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_cab_done_pressed_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_pressed_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tab_unselected_pressed_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_pressed_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tab_unselected_focused_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_focused_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\menu_dropdown_panel_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\menu_dropdown_panel_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\list_focused_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\list_focused_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tab_selected_focused_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_focused_vaibhav.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tab_selected_vaibhav.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_vaibhav.9.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_vaibhav.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable\\progress_horizontal_vaibhav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cab_done_vaibhav.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable\\btn_cab_done_vaibhav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_background_vaibhav.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable\\selectable_background_vaibhav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_ab_vaibhav.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable\\tab_indicator_ab_vaibhav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_ab_vaibhav.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapp\\app\\src\\main\\res\\drawable\\spinner_background_ab_vaibhav.xml"
+    }
+]
